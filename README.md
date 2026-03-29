@@ -10,9 +10,10 @@ Prev  [[Turrant AI, Ekamapps]](https://turrant.ai) | BIT Mesra CSE'27
 
 2. **[BorgBase (Vorta)](https://github.com/borgbase/vorta)**: Authored 16 PRs optimizing CI/CD pipelines, Python 3.12 compatibility, resolving timezone bugs, and completing 2 full projects.
 
-3. **[AboutCode](https://github.com/aboutcode-org)**: Submitted 16 PRs across ScanCode & VulnerableCode enhancing code quality and CI workflows.
+3. **[OSSF (CVE Binary Tool)](https://github.com/intel/cve-bin-tool)**: Resolved critical Windows crash loops involving sqlite3 databases via filesystem optimizations.
+   
+4. **[AboutCode](https://github.com/aboutcode-org)**: Submitted 16 PRs across ScanCode & VulnerableCode enhancing code quality and CI workflows.
 
-4. **[OSSF (CVE Binary Tool)](https://github.com/intel/cve-bin-tool)**: Resolved critical Windows crash loops involving sqlite3 databases via filesystem optimizations.
 
 **Internships**
 
