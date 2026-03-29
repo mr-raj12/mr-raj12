@@ -23,12 +23,6 @@ Prev  [[Turrant AI, Ekamapps]](https://turrant.ai) | BIT Mesra CSE'27
 
 3. **[CxOLANCE](https://cxolance.com)**: Freelance Web Developer. Developed full-stack CxO hiring platform reducing hiring cycle time by 35%.
 
-**Volunteering**
- 
-1. **[Pantheon'25](https://github.com/bitotsav-fest/website)**: Tech Lead. Led 10-member tech team managing full-stack infrastructure for techfest serving 5000+ visitors. Spearheaded HackQuest'25 hackathon attracting 1200+ participants and 200+ teams from IITs, NITs, IIITs.
- 
-2. **[BITOTSAV](https://github.com/bitotsav-fest/website)**: Highest Contributor. Engineered QR-based ticketing system for 2000+ attendees with real-time admin dashboards. Built live leaderboard with WebSocket integration boosting participant engagement by 40%.
-
 ### Achievements
 
 - 🥇 **PPI Offer** — HACKFEST, IIT ISM Dhanbad
@@ -36,3 +30,9 @@ Prev  [[Turrant AI, Ekamapps]](https://turrant.ai) | BIT Mesra CSE'27
 - 🥇 **1st Place** — Blind Coding, BITOTSAV'24
 - 🥈 **2nd Place** — HACKATRON, BIT Sindri
 - 🥉 **3rd Place** — HACKAWAY, ROBOSAGA
+
+**Volunteering**
+ 
+1. **[Pantheon'25](https://github.com/bitotsav-fest/website)**: Tech Lead. Led 10-member tech team managing full-stack infrastructure for techfest serving 5000+ visitors. Spearheaded HackQuest'25 hackathon attracting 1200+ participants and 200+ teams from IITs, NITs, IIITs.
+ 
+2. **[BITOTSAV](https://github.com/bitotsav-fest/website)**: Highest Contributor. Engineered QR-based ticketing system for 2000+ attendees with real-time admin dashboards. Built live leaderboard with WebSocket integration boosting participant engagement by 40%.
