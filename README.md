@@ -1,4 +1,4 @@
-Prev @ [Turrant AI, Ekamapps](https://turrant.ai) | BIT Mesra CSE'27
+Prev  [[Turrant AI, Ekamapps]](https://turrant.ai) | BIT Mesra CSE'27
 
 [![Linkedin Badge](https://img.shields.io/badge/-mrityunjay--raj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrityunjay-raj/)](https://www.linkedin.com/in/mrityunjay-raj/) [![Codeforces Badge](https://img.shields.io/badge/-mr__raj12-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/mr_raj12)](https://codeforces.com/profile/mr_raj12) [![Gmail Badge](https://img.shields.io/badge/-mr.raj.earth@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mr.raj.earth@gmail.com)](mailto:mr.raj.earth@gmail.com) [![GitHub Badge](https://img.shields.io/badge/-mr--raj12-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mr-raj12)](https://github.com/mr-raj12)
 
