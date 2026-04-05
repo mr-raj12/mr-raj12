@@ -6,9 +6,9 @@ Prev  [[Turrant AI, Ekamapps]](https://turrant.ai) | BIT Mesra CSE'27
 
 **Open Source**
 
-1. **[BorgBackup (Borg)](https://github.com/borgbackup/borg)**: Authored 33 PRs optimizing CI/CD pipelines, Python 3.12 compatibility, resolving complex timezone bugs and several major bugs.
+1. **[BorgBackup (Borg)](https://github.com/borgbackup/borg)**: Authored 33 PRs driving the project's Python 3.12 modernization, strengthened core reliability by resolving complex timezone architectures and critical operational bugs.
 
-2. **[BorgBase (Vorta)](https://github.com/borgbase/vorta)**: Authored 16 PRs optimizing CI/CD pipelines, Python 3.12 compatibility, resolving timezone bugs, and completing 2 full projects.
+2. **[BorgBase (Vorta)](https://github.com/borgbase/vorta)**: Authored 16 PRs 16 PRs on developer tooling and deployment workflows, successfully shipped 2 major architectural initiatives, including strict type-checking (mypy) integration and localization migration.
 
 3. **[OSSF (CVE Binary Tool)](https://github.com/intel/cve-bin-tool)**: Resolved critical Windows crash loops involving sqlite3 databases via filesystem optimizations.
    
@@ -17,14 +17,14 @@ Prev  [[Turrant AI, Ekamapps]](https://turrant.ai) | BIT Mesra CSE'27
 
 **Internships**
 
-1. **[EkamApps (Turrant AI)](https://turrant.ai)**: AI Engineering Intern. Engineered RESTful APIs & credit-based billing microservice handling 500+ concurrent transactions. Architected multi-tenant notification system across WhatsApp, email & web portal with event-driven architecture. Optimized PostgreSQL schema (118+ tables) improving OCR accuracy by 25% and system throughput.
+1. **[EkamApps (Turrant AI)](https://turrant.ai)**: AI Engineering Intern. Engineered RESTful APIs & credit-based billing microservice handling 500+ concurrent transactions. Architected multi-tenant notification system across WhatsApp, email & web portal with event-driven architecture. Optimized PostgreSQL schema (118+ tables), improving OCR accuracy and system throughput.
 
-2. **[PromptCue](https://promptcue.com)**: SDE Intern. Built AI aggregator platform integrating MCP tools, file systems & image generation APIs. Reduced inference latency by 30% through caching strategies and async processing.
+2. **[PromptCue](https://promptcue.com)**: SDE Intern. Built AI aggregator platform integrating MCP tools, file systems & image generation APIs. Reduced inference latency through caching strategies and async processing.
 
-3. **[CxOLANCE](https://cxolance.com)**: Freelance Web Developer. Developed full-stack CxO hiring platform reducing hiring cycle time by 35%.
+3. **[CxOLANCE](https://cxolance.com)**: Freelance Web Developer. Developed full-stack CxO hiring platform reducing hiring cycle time.
 
 **Volunteering**
  
 1. **[Pantheon'25](https://github.com/bitotsav-fest/website)**: Tech Lead. Led 10-member tech team managing full-stack infrastructure for techfest serving 5000+ visitors. Spearheaded HackQuest'25 hackathon attracting 1200+ participants and 200+ teams from IITs, NITs, IIITs.
  
-2. **[BITOTSAV](https://github.com/bitotsav-fest/website)**: Highest Contributor. Engineered QR-based ticketing system for 2000+ attendees with real-time admin dashboards. Built live leaderboard with WebSocket integration boosting participant engagement by 40%.
+2. **[BITOTSAV](https://github.com/bitotsav-fest/website)**: Engineered QR-based ticketing system for 3000+ attendees with real-time admin dashboards. Built live leaderboard and handling participant's team managagement.
