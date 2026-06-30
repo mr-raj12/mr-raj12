@@ -8,11 +8,11 @@
 
 1. **[BorgBackup (Borg)](https://github.com/borgbackup/borg)**: Authored 33 PRs driving the project's Python 3.12 modernization, strengthened core reliability by resolving complex timezone architectures and critical operational bugs.
 
-2. **[BorgBase (Vorta)](https://github.com/borgbase/vorta)**: Authored 16 PRs 16 PRs on developer tooling and deployment workflows, successfully shipped 2 major architectural initiatives, including strict type-checking (mypy) integration and localization migration.
+2. **[BorgBase (Vorta)](https://github.com/borgbase/vorta)**: Authored 16 PRs on developer tooling and deployment workflows, successfully shipped 2 major architectural initiatives, including strict type-checking (mypy) integration and localization migration.
 
 3. **[OSSF (CVE Binary Tool)](https://github.com/intel/cve-bin-tool)**: Resolved critical Windows crash loops involving sqlite3 databases via filesystem optimizations.
    
-4. **[AboutCode](https://github.com/aboutcode-org)**: Submitted 16 PRs across ScanCode & VulnerableCode enhancing code quality and CI workflows.
+4. **[AboutCode](https://github.com/aboutcode-org)**: 16 PRs across ScanCode & VulnerableCode enhancing code quality and CI workflows.
 
 
 **Internships**
